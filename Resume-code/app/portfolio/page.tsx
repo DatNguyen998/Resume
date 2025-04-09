@@ -70,9 +70,10 @@ export default function PortfolioPage() {
                   <br /> <span className="text-[#c4a48e]">with ERP Systems</span>
                 </h1>
                 <p className="text-gray-300">
-                  I am a <strong>Business Analyst</strong> specializing in ERP systems, delivering effective solutions
-                  that align technology with business needs. I use my understanding of operational challenges to support
-                  growth and improve efficiency.
+                 Self-motivated <strong>Business Analyst</strong> with over 3 years of experience in business analysis, research, and
+content validation. Native Vietnamese speaker with excellent reading and writing comprehension.
+Skilled in interpreting, summarizing, and evaluating complex content. Proven ability to work
+independently in hybrid, cross-functional environments
                 </p>
                 <div className="flex gap-4 mt-6 text-sm text-gray-300">
                   <span>✅ Available for work</span>
@@ -110,7 +111,7 @@ export default function PortfolioPage() {
                 </div>
               </div>
               <div className="w-48 h-60 relative rounded-xl overflow-hidden border-4 border-[#c4a48e] ml-6 mt-6 md:mt-0">
-                <Image src="/placeholder.svg?height=300&width=300" alt="Profile" fill className="object-cover" />
+                <Image src="/avatar-ghibli.png?height=300&width=300" alt="Profile" fill className="object-cover" />
               </div>
             </div>
           </section>
